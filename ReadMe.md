@@ -5,9 +5,16 @@ Built for entrepreneurs, developers, and non-tech users alike, this platform eli
 
 The platform is designed to be scalable, modular, and production-ready. It integrates prompt parsing, code generation, template rendering, and optional auto-deployment, allowing users to either preview their websites in real-time or export them as downloadable packages.
 
-This project not only showcases the power of generative AI in software development but also demonstrates a practical application of AI in reducing development time, enhancing accessibility, and empowering users to bring their ideas to life—instantly.
+This project not only showcases the power of generative AI in software development but also demonstrates a practical application of AI in reducing development time, enhancing accessibility, and empowering users to bring their ideas to life instantly.
+
+---
+
+## Note
+This project is currently a work in progress. While it may take some time to reach full completion, the goal is clear: To build a scalable, AI-driven platform that empowers anyone to create professional websites within minutes using simple text prompts.
 
 ---
 
 ## Author
 sheryar-bit
+
+---
